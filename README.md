@@ -50,23 +50,6 @@ A desktop-based Student Record Management System developed using **Java Swing** 
 
 ---
 
-## 📂 Project Structure
-
-```text
-StudentRecordManagementSystem
-│
-├── MainClass.java
-├── MainFrame.java
-├── MainPanel.java
-├── SearchFrame.java
-├── SearchPanel.java
-│
-└── Oracle Database
-     └── STUDENT Table
-```
-
----
-
 ## 🗄️ Database Schema
 
 ### STUDENT Table
