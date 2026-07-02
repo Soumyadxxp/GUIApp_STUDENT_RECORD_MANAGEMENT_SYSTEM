@@ -1,10 +1,10 @@
-# 🎓 Student Record Management System
+# Student Record Management System
 
 A desktop-based Student Record Management System developed using **Java Swing** and **Oracle Database 11g XE**. The application provides an intuitive graphical user interface (GUI) for managing student records, storing data securely in an Oracle database, and performing efficient search operations.
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Student Management
 
@@ -38,7 +38,7 @@ A desktop-based Student Record Management System developed using **Java Swing** 
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Technology             | Purpose                   |
 | ---------------------- | ------------------------- |
@@ -50,7 +50,7 @@ A desktop-based Student Record Management System developed using **Java Swing** 
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ### STUDENT Table
 
@@ -79,7 +79,7 @@ CREATE TABLE STUDENT
 
 ---
 
-## ⚙️ Oracle Database Configuration
+## Oracle Database Configuration
 
 ### JDBC Driver
 
@@ -105,7 +105,7 @@ DriverManager.getConnection(
 
 ---
 
-## 📋 Functional Modules
+## Functional Modules
 
 ### Add Student
 
@@ -132,7 +132,7 @@ DriverManager.getConnection(
 
 ---
 
-## 🎯 Key Concepts Implemented
+## Key Concepts Implemented
 
 * Java Swing GUI Programming
 * JDBC Connectivity
@@ -145,7 +145,7 @@ DriverManager.getConnection(
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Step 1: Start Oracle Database
 
@@ -185,7 +185,7 @@ java MainClass
 
 ---
 
-## 🖥️ Application Features
+## Application Features
 
 ✅ Student Registration
 
@@ -205,7 +205,7 @@ java MainClass
 
 ---
 
-## 📚 Educational Objectives
+## Educational Objectives
 
 This project demonstrates practical implementation of:
 
@@ -218,7 +218,7 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Soumyadeep Basu**
 
@@ -226,6 +226,6 @@ Java Swing + Oracle Database Project
 
 ---
 
-## 📜 License
+## License
 
 This project is developed for educational and academic purposes.
