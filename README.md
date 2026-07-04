@@ -1,6 +1,14 @@
 # Student Record Management System
 
 A desktop-based Student Record Management System developed using **Java Swing** and **Oracle Database 11g XE**. The application provides an intuitive graphical user interface (GUI) for managing student records, storing data securely in an Oracle database, and performing efficient search operations.
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/84d9f231-db23-416f-a6ff-d218abc0b7e0" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/330665f9-dbb9-42d8-bb15-d2118104853b" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/6a046c97-0e68-4353-a993-7426d8a09eab" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/e252ab0b-3c5b-49df-83b1-485d085b8604" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/29d562d7-cf1b-4ffb-9241-66c9b94afe60" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/b2dfb6a5-4c09-4a74-a321-2ff460255fb5" />
+<img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/3201be89-09f2-4ab0-a47f-25cb379469e4" />
+<img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/6e9fdc94-70b7-4bae-a03f-321631787a0e" />
 
 ---
 
