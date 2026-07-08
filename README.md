@@ -1,6 +1,6 @@
 # Student Record Management System
 
-A desktop-based Student Record Management System developed using **Java Swing** and **Oracle Database 11g XE**. The application provides an intuitive graphical user interface (GUI) for managing student records, storing data securely in an Oracle database, and performing efficient search operations.
+A desktop-based Student Record Management System developed using **Java Swing** and **Oracle Database 11g XE**. The application provides an intuitive graphical user interface (GUI) for managing student records, storing data securely in an Oracle database, and performing efficient search operations. 
 <img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/84d9f231-db23-416f-a6ff-d218abc0b7e0" /> 
 <img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/330665f9-dbb9-42d8-bb15-d2118104853b" />
 <img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/6a046c97-0e68-4353-a993-7426d8a09eab" />
