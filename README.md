@@ -10,7 +10,7 @@ A desktop-based Student Record Management System developed using **Java Swing** 
 <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/3201be89-09f2-4ab0-a47f-25cb379469e4" />
 <img width="1280" height="889" alt="image" src="https://github.com/user-attachments/assets/6e9fdc94-70b7-4bae-a03f-321631787a0e" />
 
----
+---   
 
 ## Features
 
